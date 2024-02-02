@@ -48,11 +48,8 @@
 
   <h2>Contributors</h2>
 
-  <p>Your Name</p>
+  <p>Ankur</p>
 
-  <h2>License</h2>
-
-  <p>This project is licensed under the <a href="LICENSE">MIT License</a>.</p>
 
 </body>
 </html>
